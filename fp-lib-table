@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ToysLib") (type "KiCad") (uri "C:/Users/ToyJig/Documents/KiCad/ToysLib.pretty") (options "") (descr ""))
+)
